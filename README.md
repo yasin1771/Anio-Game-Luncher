@@ -1,2 +1,2 @@
 # Anio-Game-Launcher
-🎮 Anio Game Launcher – Beta 2025.5.24 | [Download Latest Release](https://github.com/yasin1771/Anio-Game-Luncher/releases/download/game_launcher/Anio.Game.Luncher.-.Beta.2025.5.24.exe)
+🎮 Anio Game Launcher – Beta 2025.5.25 | [Download Latest Release](https://github.com/yasin1771/Anio-Game-Luncher/releases/download/Anio_Game_Launcher_Beta_2025.5.25/Anio.Game.Luncher.-.Beta.2025.5.25.exe)
